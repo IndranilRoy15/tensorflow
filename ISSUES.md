@@ -3,7 +3,7 @@
 If you open a GitHub Issue, here is our policy:
 
 1.  It must be a bug/performance issue, feature request, build issue, or
-    documentation issue (for small doc fixes please send a PR instead).
+    documentation issue (for small doc fixes please send a PR instead). 1111111
 2.  Make sure the Issue Template is filled out.
 3.  The issue should be related to the repo it is created in.
 
